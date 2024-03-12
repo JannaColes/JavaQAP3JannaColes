@@ -1,7 +1,7 @@
 package Problem2;
 
 // Demo class demonstrates the usage of Point and MovablePoint classes.
-public class Demo2 {
+public class Demo {
   public static void main(String[] args) {
     Point point = new Point(3.5f, 4.5f);
     System.out.println("Point: " + point);
