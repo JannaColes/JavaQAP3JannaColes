@@ -1,7 +1,7 @@
 package Problem4;
 
 // Demo class demonstrates the usage of Shape and Scalable interface.
-public class Demo3 {
+public class Demo {
   public static void main(String[] args) {
     Shape[] shapes = new Shape[4];
     shapes[0] = new  Circle("Circle", 5.0);
