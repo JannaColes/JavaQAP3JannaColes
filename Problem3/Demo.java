@@ -1,7 +1,7 @@
 package Problem3;
 
 // Test class demonstrates the usage of Shape and its subclasses.
-public class Test {
+public class Demo {
   public static void main(String[] args) {
     Shape[] shapes = new Shape[4];
     shapes[0] = new Circle("Circle", 5.0);
